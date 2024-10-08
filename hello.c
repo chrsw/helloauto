@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
     ret = printf("%s", msg);
 
     if (ret == strlen(msg))
-        return ret;
+        return 0;
     else
-        return -1;
+        return 1;
 }
