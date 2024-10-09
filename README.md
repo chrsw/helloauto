@@ -1,5 +1,5 @@
 # helloauto
-Hello world using autotools
+Simple "Hello World" style program in C packaged using Autotools and friends.
 For demonstration of tools, language, systems, etc.
 
 ## The following is demonstrated
