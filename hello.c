@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
     char msg[] = "Hello, World!\n";
 
     fprintf(stdout, "%s", msg);
-    ret = fflush(stdout);
+    ret = fflush(stdout);           // check if greeting actually flushed
 
     return ret;
 }
