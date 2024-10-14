@@ -1,8 +1,8 @@
 // hello: print a greeting
 
+#include <config.h>
 #include <stdio.h>
 #include <string.h>
-#include <config.h>
 
 int main(int argc, char *argv[]) {
 
