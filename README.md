@@ -11,6 +11,8 @@ For demonstration of tools, language, systems, etc.
 ## Building
 ``$ ./configure``
 ``$ make``
+To create a distribution package:
+``$ make distcheck``
 
 ## Installing
 TBD
@@ -21,3 +23,4 @@ https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install
 https://medium.com/@evilsapphire_s/how-is-a-hello-world-compiled-in-mingw-gcc-part-1-preprocessing-3e3898e3c11d
 https://c-for-dummies.com/blog/?p=3675
 https://www.gnu.org/software/automake/manual/html_node/Hello-World.html
+https://github.com/github/gitignore/blob/main/Autotools.gitignore
