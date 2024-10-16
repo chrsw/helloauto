@@ -1,4 +1,4 @@
-// hello: print a greeting
+// helloauto: print a greeting
 
 #include <config.h>
 #include <stdio.h>
