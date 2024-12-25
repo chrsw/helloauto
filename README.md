@@ -38,3 +38,6 @@ https://www.gnu.org/software/automake/manual/html_node/Hello-World.html
 https://github.com/github/gitignore/blob/main/Autotools.gitignore
 https://stackoverflow.com/questions/12803239/autoreconf-cleanup
 https://dansanderson.com/lab-notes/autotools-in-2022/
+
+## TODO
+Add a options like help
