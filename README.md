@@ -27,7 +27,7 @@ To create a distribution package:
 ``$ make distcheck``
 
 ## Installing
-TBD
+``$ sudo make install``
 
 ## Links
 https://blog.sunfishcode.online/bugs-in-hello-world/
